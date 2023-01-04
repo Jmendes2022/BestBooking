@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link href="~/css/Index.css" rel="stylesheet" />
+<link rel="stylesheet" href="~/css/Card.css"/>
+
+
+<div class="header-Div1">
+    <h1>Welcome To Best Booking!</h1>
+    <h4><strong><em>WE</em></strong> book it so <strong><em>YOU</em></strong> dont have to!</h4>
+</div>
+
+<div class="text Center-Div">
+    <p>Thank you for choosing to use <em>Best Booking</em> for your vacation and booking needs!</p>
+</div>
+
+<div class="text">
+    <p>&nbsp;&nbsp; At <em>Best Booking</em>, we believe that vacations should be hassle free and affordable. Our goal is to ensure that you have the best experience for <em>every</em> booking, <em>every</em> time! Below are the most commonly chosen vacation themes to which you can sort through different locations for each respective theme. When you have found your perfect location, click the "<em>Contact Us!</em>" button below so that an agent may contact you</p>
+</div>
+
+
+<div class="background-color">
+    <div class="container rigid-Border">
+        <figure class="figure">
+          <img src="~/Images/Tropical/Index/TropicalPicture.jpg" class="figure-img img-fluid rounded Tropical-pic img-Border" alt="...">
+          <figcaption class="figure-caption"><a class="nav-link text-black" id="Tropical" asp-area="" asp-controller="Tropical" asp-action="TropicalIndex">Tropical</a>
+    </figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="~/Images/Winter/Index/WinterPicture.jpg" class="figure-img img-fluid rounded Winter-pic img-Border" alt="...">
+          <figcaption class="figure-caption"><a class="nav-link text-black" id="Winter" asp-area="" asp-controller="Winter" asp-action="WinterIndex">Winter</a></figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="~/Images/Nightlife/Index/NightLifePicture.jpg" class="figure-img img-fluid rounded NightLife-pic img-Border" alt="...">
+          <figcaption class="figure-caption"><a class="nav-link text-black" id="NightLife" asp-area="" asp-controller="NightLife" asp-action="NightLifeIndex">Night Life</a></figcaption>
+        </figure>
+    </div>
+</div>
+
+<div class="Center-Div">
+    <button type="button" class="btn btn-dark Contact-Us-Button" data-bs-toggle="modal" data-bs-target="#SubmitUserInformation"><em>Contact Us!</em></button>
+</div>
+<div class="row card-div">
+    <div class="col-3 card">
+      <div class="card-header">
+        <strong><em>Best Booking Site I have ever used!</em></strong>
+      </div>
+      <div class="card-body">
+        <blockquote class="blockquote mb-0">
+          <p>I have used Best booking for years and will not stop anytime soon! I highly recommend them!</p>
+          <footer class="blockquote-footer">John Doe</footer>
+        </blockquote>
+      </div>
+    </div>
+    <div class="col-3 card">
+      <div class="card-header">
+        <strong><em>I'll never look back again!</em></strong>
+      </div>
+      <div class="card-body">
+        <blockquote class="blockquote mb-0">
+          <p>Seriously the best booking site I have ever found; Jessica was extremely helpful the entire time!</p>
+          <footer class="blockquote-footer">Samantha Mendes</footer>
+        </blockquote>
+      </div>
+    </div>
+    <div class="col-3 card">
+      <div class="card-header">
+        <strong><em>5 out of 5 Stars everytime!</em></strong>
+      </div>
+      <div class="card-body">
+        <blockquote class="blockquote mb-0">
+          <p>I can't believe I took this long to find Best Booking. They are extremely helpful with insanely good prices!</p>
+          <footer class="blockquote-footer">Aria Mendes</footer>
+        </blockquote>
+      </div>
+    </div>
+</div>
+@await Html.PartialAsync("SubmitUserInformation")
+
+@section Scripts
+{
+        @await Html.PartialAsync("_ValidationScriptsPartial")
+}

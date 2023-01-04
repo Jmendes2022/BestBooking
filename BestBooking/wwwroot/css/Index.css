@@ -1,0 +1,243 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: linear-gradient( white, whitesmoke, lightgray, darkgray, gray, #504f50);
+}
+
+h4 strong em {
+    display: inline-flex;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 28px;
+    padding: 12px;
+}
+
+div h4 {
+    margin-left: auto;
+    margin-right: 100px;
+}
+
+div h1 {
+    display: inline-flex;
+    justify-items: flex-start;
+    align-content: flex-start;
+    font-family:sans-serif;
+    font-style:oblique;
+    
+}
+
+.card {
+    display: flex;
+    border: black hidden 2px;
+    background-image: linear-gradient( whitesmoke, #8a5cb8, #c1a9d9, whitesmoke);
+    color: black;
+    width: 420px;
+    box-shadow: 10px 5px 5px #474747;
+}
+
+.card-header, .blockquote-footer {
+    border: none;
+    background-color:rgba(0,0,0,0.01);
+    color: black;
+}
+
+.blockquote {
+    font-style: oblique;
+}
+
+.blockquote-footer {
+    margin-top: 15px;
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+
+.card-div {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    justify-content: center;
+    gap: 25px;
+}
+
+.Center-Div {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div p em {
+    text-decoration: underline;
+}
+
+.text {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-family: sans-serif;
+}
+
+.header-Div1 {
+    display: flex;
+    align-content: flex-start;
+    justify-content: flex-start;
+    border-bottom: black solid 2px;
+    
+}
+
+.col-md-4 {
+    align-content: stretch;
+    justify-content: flex-end;
+}
+
+.smaller-NumOfPeople-Input {
+    width: 64px;
+}
+
+
+@keyframes pulse {
+    0%, 100% {
+        animation-timing-function: ease-in-out;
+    }
+    50% {
+        transform: scale(1.2);
+    }
+}
+
+div button:hover {
+    transform: scale(1.33);
+}
+
+.header-Div2 {
+    display: flex;
+    align-content: flex-start;
+    margin-left: 45px;
+    padding: 15px;
+}
+
+.background-color {
+    display: flex;
+    width: 80%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+.figure-caption {
+    color: black;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.rigid-Border {
+    border-top: ridge black 2px;
+    padding: 25px;
+}
+
+.img-Border {
+    border: black ridge 2px;
+    box-shadow: 5px 3px 5px;
+}
+
+.container {
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    align-content: flex-end;
+}
+
+.Winter-pic {
+    display:flex;
+    width: 300px;
+    height: 300px;
+    align-self: flex-end;
+}
+
+.Tropical-pic {
+    display:flex;
+    width: 300px;
+    height: 300px;
+    align-self: flex-end;
+}
+
+.NightLife-pic {
+    display:flex;
+    width: 300px;
+    height: 300px;
+    align-self: flex-end;
+}
+
+footer div p {
+    display: flex;
+    color: black;
+    justify-self: flex-start;
+    align-self: flex-start;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+#Winter:hover {
+    text-decoration: underline;
+    color: black;
+    background-image: linear-gradient(120deg, gray, #c3ffffff, #3498e2, #c3ffffff, #3498e2, #c3ffffff, gray);
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+}
+
+
+#Tropical:hover {
+    text-decoration: underline;
+    color: black;
+    background-image: linear-gradient(120deg, gray, #31acff, #05b9b9, #08b47a, gray);
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+}
+
+#NightLife:hover {
+    text-decoration: underline;
+    color: black;
+    background-image: linear-gradient(120deg, gray, #865f86, #702c70,  #865f86, gray);
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+}
+
+.Contact-Us-Button {
+    margin-right: auto;
+    margin-left: auto;
+    width: 550px;
+    background-image: linear-gradient(#8a5cb8, #c1a9d9, whitesmoke);
+    animation: pulse 4s infinite;
+    color: black;
+    font-size: 20px;
+}
+
+    .Contact-Us-Button:hover, .Contact-Us-Button:active, .Contact-Us-Button:visited {
+        margin-right: auto;
+        margin-left: auto;
+        width: 550px;
+        animation: normal;
+        background-image: linear-gradient(#8a5cb8, #c1a9d9, whitesmoke);
+        color: black;
+        font-size: 20px;
+        text-decoration: underline;
+    }
+
+a:active {
+    text-decoration: underline;
+    color: black;
+}

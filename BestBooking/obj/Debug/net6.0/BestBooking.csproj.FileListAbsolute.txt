@@ -1,0 +1,52 @@
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\appsettings.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.staticwebassets.runtime.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.exe
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.deps.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.runtimeconfig.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.pdb
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.csproj.AssemblyReference.cache
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.AssemblyInfoInputs.cache
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.AssemblyInfo.cs
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.csproj.CoreCompileInputs.cache
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.RazorAssemblyInfo.cache
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.RazorAssemblyInfo.cs
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\scopedcss\bundle\BestBooking.styles.css
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\scopedcss\projectbundle\BestBooking.bundle.scp.css
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\refint\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.pdb
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.genruntimeconfig.cache
+C:\Users\Water\OneDrive\Desktop\PGIP Projects\BestBooking\BestBooking\obj\Debug\net6.0\ref\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\appsettings.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.staticwebassets.runtime.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.exe
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.deps.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.runtimeconfig.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\BestBooking.pdb
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.csproj.AssemblyReference.cache
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.AssemblyInfoInputs.cache
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.AssemblyInfo.cs
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.csproj.CoreCompileInputs.cache
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.RazorAssemblyInfo.cache
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.RazorAssemblyInfo.cs
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\scopedcss\bundle\BestBooking.styles.css
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\scopedcss\projectbundle\BestBooking.bundle.scp.css
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\refint\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.pdb
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.genruntimeconfig.cache
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\ref\BestBooking.dll

@@ -1,0 +1,39 @@
+﻿body {
+}
+
+.card {
+    display: flex;
+    border: black hidden 2px;
+    background-image: linear-gradient( whitesmoke, #8a5cb8, #c1a9d9, whitesmoke);
+    color: black;
+    width: 420px;
+    box-shadow: 10px 5px 5px #474747;
+}
+
+.card-header, .blockquote-footer {
+    border: none;
+    background-color: rgba(0,0,0,0.01);
+    color: black;
+}
+
+.blockquote {
+    font-style: oblique;
+}
+
+.blockquote-footer {
+    margin-top: 15px;
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+
+.card-div {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    justify-content: center;
+    gap: 25px;
+}
+

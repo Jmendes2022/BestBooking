@@ -1,0 +1,27 @@
+﻿body {
+}
+
+.carousel {
+    height: 400px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+.carousel-inner .carousel-item, carousel-item img {
+    height: 400px;
+    width: 700px;
+}
+
+.active {
+    height: 400px;
+    width: 700px;
+}
+
+img {
+    display: flex;
+    align-content: stretch;
+    border: ridge 1px black;
+}

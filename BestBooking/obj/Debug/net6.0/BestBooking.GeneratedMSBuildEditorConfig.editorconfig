@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BestBooking
+build_property.RootNamespace = BestBooking
+build_property.ProjectDir = C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Home/SubmitUserInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXRVc2VySW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/NightLife/NightLifeIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmlnaHRMaWZlXE5pZ2h0TGlmZUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/NightLife/SubmitUserInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmlnaHRMaWZlXFN1Ym1pdFVzZXJJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Tropical/Aruba.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJvcGljYWxcQXJ1YmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Tropical/Bahamas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJvcGljYWxcQmFoYW1hcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Tropical/Bermuda.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJvcGljYWxcQmVybXVkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Tropical/Jamaica.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJvcGljYWxcSmFtYWljYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Tropical/SubmitUserInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJvcGljYWxcU3VibWl0VXNlckluZm9ybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Tropical/TropicalIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJvcGljYWxcVHJvcGljYWxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Winter/Alaska.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ludGVyXEFsYXNrYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Winter/Aspen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ludGVyXEFzcGVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Winter/Colorado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ludGVyXENvbG9yYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Winter/SubmitUserInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ludGVyXFN1Ym1pdFVzZXJJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Winter/Vermont.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ludGVyXFZlcm1vbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Winter/WinterIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2ludGVyXFdpbnRlckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Water/OneDrive/Desktop/BestBooking/BestBooking/BestBooking/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fk8gnfaxjw

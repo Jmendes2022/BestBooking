@@ -1,0 +1,94 @@
+* {
+    font-family: sans-serif;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+nav {
+    font-size: 22px;
+    background-image: linear-gradient(#8a5cb8, #c1a9d9,   whitesmoke);
+}
+
+.dropdown-menu-tropical {
+    border: black solid 1px;
+    font-size: 20px;
+    font-style: oblique;
+    color: black;
+    background-image: linear-gradient( white, whitesmoke, #8686ff,  #cea629);
+}
+
+.dropdown-item-tropical:hover {
+    background: none;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
+    font-weight: bolder;
+}
+
+.dropdown-menu-winter {
+    border: black solid 1px;
+    font-size: 20px;
+    font-style: oblique;
+    color: black;
+    background-image: linear-gradient(220deg, #9aa2ae, #82b7da, #9aa2ae, #b6c6d6, #82b7da, #d8e3e7);
+}
+
+.dropdown-item-winter:hover {
+    background: none;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
+    font-weight: bolder;
+}
+
+.mouse-pointer {
+    cursor: pointer;
+}
+
+a.nav-link.text-dark.dropdown-toggle::after {
+    -webkit-appearance: none;
+    display: none;
+}
+
+.border-bottom {
+    border:none;
+}
+
+.navbar-brand {
+    border-right: solid black 2px;
+    margin-right: 12px;
+    padding-right: 12px;
+    font-size: 25px;
+}
+
+.move-to-end {
+    margin-left: 1800px;
+}
+
+.move-to-end a {
+    font-size: 30px;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+footer div p{
+    display: flex;
+    justify-self: flex-start;
+    align-self: flex-start;
+    font-size: 25px;
+    color: black;
+}
