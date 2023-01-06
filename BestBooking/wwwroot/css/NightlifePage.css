@@ -1,0 +1,41 @@
+﻿body {
+    background-image: linear-gradient(white, whitesmoke, #865f86, #865f86, #865f86, #702c70, #702c70, #702c70, #865f86, gray);
+}
+
+.h1-page {
+    display: inline-flex;
+    margin-top: 80px;
+    margin-Bottom: 30px;
+    font-size: 50px;
+}
+
+h4 {
+    display: inline-flex;
+    margin-left: 50px;
+}
+
+.text {
+    border-top: black 1px solid;
+    margin: 50px;
+    font-size: 25px;
+    padding-top: 50px;
+    color: black;
+}
+
+    .text em {
+        text-decoration: underline;
+    }
+
+.Center-Div {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer div p {
+    display: flex;
+    color: black;
+    justify-self: flex-start;
+    align-self: flex-start;
+    font-size: 25px;
+}

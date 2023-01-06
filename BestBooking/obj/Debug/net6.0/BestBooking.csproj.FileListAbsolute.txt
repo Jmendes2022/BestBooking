@@ -50,3 +50,6 @@ C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\ne
 C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.pdb
 C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.genruntimeconfig.cache
 C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\ref\BestBooking.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\FluentEmail.Core.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\bin\Debug\net6.0\FluentEmail.Smtp.dll
+C:\Users\Water\OneDrive\Desktop\BestBooking\BestBooking\BestBooking\obj\Debug\net6.0\BestBooking.csproj.CopyComplete

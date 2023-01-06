@@ -1,7 +1,13 @@
+using BestBooking;
+using BestBooking.Classes;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<IEmailMessage, EmailMessage>();
+builder.Services.AddTransient<IsmtpClientClass, smtpClientClass>();
+
 
 var app = builder.Build();
 

@@ -47,16 +47,16 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link text-dark dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Night Life</a>
-                                <ul class="dropdown-menu">
-                                  <li><a class="dropdown-item" asp-controller="NightLife" asp-action="NightLifeIndex">View All</a></li>
-                                  <li><a class="dropdown-item" href="#">Another action</a></li>
-                                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                <a class="nav-link text-dark dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">Night Life</a>
+                                <ul class="dropdown-menu dropdown-menu-nightlife">
+                                  <li><a class="dropdown-item dropdown-item-nightlife" asp-controller="NightLife" asp-action="NightLifeIndex">View All</a></li>
                                   <li><hr class="dropdown-divider"></li>
-                                  <li><a class="dropdown-item" href="#">Separated link</a></li>
+                                  <li><a class="dropdown-item dropdown-item-nightlife" asp-controller="NightLife" asp-action="Boston">Boston</a></li>
+                                  <li><a class="dropdown-item dropdown-item-nightlife" asp-controler="NightLife" asp-action="Dubai" >Dubai</a></li>
+                                  <li><a class="dropdown-item dropdown-item-nightlife" asp-controler="NightLife" asp-action="Ibiza" >Ibiza</a></li>
+                                  <li><a class="dropdown-item dropdown-item-nightlife" asp-controler="NightLife" asp-action="LasVegas">Las Vegas</a></li>
                                 </ul>
                             </li>
-                            
                             <li class="nav-item">
                                 <a class="nav-link text-dark mouse-pointer" asp-controller="Home" data-bs-toggle="modal" data-bs-target="#SubmitUserInformation">Contact Us!</a>
                             </li>

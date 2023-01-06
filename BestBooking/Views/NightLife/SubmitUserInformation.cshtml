@@ -3,8 +3,9 @@
 *@
 @{
     var nextFiveYears = @DateTime.Today.Year + 5;
-
 }
+@model ContactUsModalModel
+
 <!-- Modal -->
 <div class="modal fade" id="SubmitUserInformation" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
@@ -14,29 +15,29 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body" style="display: flex; justify-content: center; align-content: center;">
-        <form class="row g-3">
+        <form class="row g-3" asp-action="ContactUs" asp-controller="Home">
             <div class="col-md-6">
             <label for="inputEmail4" class="form-label"><strong>First Name:</strong></label>
-            <input type="text" required class="form-control" placeholder="Joe">
+            <input type="text" required class="form-control" asp-for="@Model.FirstName" placeholder="Joe">
           </div><div class="col-md-6">
             <label for="inputEmail4" class="form-label"><strong>Last Name:</strong></label>
-            <input type="text" required class="form-control" placeholder="Smith">
+            <input type="text" required class="form-control" asp-for="@Model.LastName" placeholder="Smith">
           </div>
           <div class="col-2 move-age">
             <label for="inputPassword4" class="form-label"><strong>Age:</strong></label>
-            <input type="number" display="none" required class="form-control hide-arrows" min="18" placeholder="24">
+            <input type="number" display="none" required class="form-control hide-arrows" asp-for="@Model.Age" min="18" placeholder="24">
           </div>
           <div class="col-10">
             <label for="inputEmail4" class="form-label"><strong>Email:</strong></label>
-            <input type="email" required class="form-control" placeholder="JoeSmith123@gmail.com">
+            <input type="email" required class="form-control" asp-for="@Model.Email" placeholder="JoeSmith123@gmail.com">
           </div>
           <div class="col-4">
             <label for="inputAddress" class="form-label"><strong>Phone Number:</strong></label>
-            <input type="number" required class="form-control hide-arrows" id="inputAddress" placeholder="555-123-4567">
+            <input type="number" required class="form-control hide-arrows" asp-for="@Model.PhoneNumber" id="inputAddress" placeholder="555-123-4567">
           </div>
           <div class="col-md-4">
             <label for="inputPassword4" class="form-label"><strong>Type:</strong></label>
-            <select class="form-select" required aria-label="Default select example" placeholder="Mobile">
+            <select class="form-select" required aria-label="Default select example" asp-for="@Model.Type" placeholder="Mobile">
               <option selected value="Mobile">Mobile</option>
               <option value="Home">Home</option>
               <option value="Fax">Fax</option>
@@ -44,11 +45,11 @@
           </div>
           <div class="col-4">
             <label for="inputCity" class="form-label"><strong>Number of People:</strong></label>
-            <input type="number" required class="form-control hide-arrows smaller-NumOfPeople-Input" id="inputCity" placeholder="1">
+            <input type="number" required class="form-control hide-arrows smaller-NumOfPeople-Input" asp-for="@Model.NumberOfPeople" id="inputCity" placeholder="1">
           </div>
           <div class="col-4">
             <label for="inputAddress2" class="form-label"><strong>Type of Trip:</strong></label>
-            <select class="form-select" required aria-label="Default select example">
+            <select class="form-select" required asp-for="@Model.TypeOfTrip" aria-label="Default select example">
               <option selected value="Tropical">Tropical</option>
               <option value="Winter">Winter</option>
               <option value="NightLife">Night Life</option>
@@ -57,20 +58,20 @@
           
           <div class="col-md-4">
             <label for="start" class="form-label"><strong>Start date:</strong></label>
-            <input type="date" required class="form-control" name="trip-start"
+            <input type="date" required class="form-control" asp-for="@Model.StartDate" name="trip-start"
                    value="@DateTime.Today.ToString("yyyy-MM-dd")"
                    min="@DateTime.Today.ToString("yyyy-MM-dd")" max="@nextFiveYears-01-01">
           </div>
           <div class="col-md-4">
             <label for="start" class="form-label"><strong>End Date:</strong></label>
-            <input type="date" required class="form-control" name="trip-start"
+            <input type="date" required class="form-control" asp-for="@Model.EndDate" name="trip-start"
                    value="@DateTime.Today.ToString("yyyy-MM-dd")"
                    min="@DateTime.Today.ToString("yyyy-MM-dd")" max="@nextFiveYears-01-01">
           </div>
           <div>
               <div class="modal-footer Center-Div">
                 <label class="form-label"><strong>Expect our agents to contact you within 1-2 Business days!</strong></label>
-                <button type="button" class="btn btn-primary">Submit</button>
+                <button type="submit"  class="btn btn-primary">Submit</button>
               </div>
           </div>
         </form>

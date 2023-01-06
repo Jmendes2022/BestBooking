@@ -4,5 +4,55 @@
 @{
 }
 
+<link rel="stylesheet" href="~/css/Nightlife.css"/>
 
-<p>Night life index page</p>
+
+
+<div class="Center-Div">
+    <h1>Welcome To Your Night Time Party Life!</h1>
+</div>
+
+<div class="card-Div">
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+      <div class="col">
+        <div class="card">
+          <a asp-controller="NightLife" asp-action="Boston"><img src="~/Images/Nightlife/Boston/BostonImage.jpg" class="card-img-top img-size" alt="...">
+          <div class="card-body">
+            <h5 class="card-title"><strong><em>Boston</em></strong></h5>
+            <p class="card-text">Calling all party people! Come experience elegant and spuratic party life with this package deal!</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <a asp-controller="Nightlife" asp-action="Dubai"><img src="~/Images/Nightlife/Dubai/DubaiImage.jpg" class="card-img-top img-size" alt="...">
+          <div class="card-body">
+            <h5 class="card-title"><strong><em>Dubai</em></strong></h5>
+            <p class="card-text">Calling all party people! Come experience elegant and spuratic party life with this package deal!</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <a asp-controller="Nightlife" asp-action="Ibiza"><img src="~/Images/Nightlife/Ibiza/IbizaImage.jpg" class="card-img-top img-size" alt="...">
+          <div class="card-body">
+            <h5 class="card-title"><strong><em>Ibiza</em></strong></h5>
+            <p class="card-text">Calling all party people! Come experience elegant and spuratic party life with this package deal!</p>
+          </div>
+          </a>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <a asp-controller="Nightlife" asp-action="LasVegas"><img src="~/Images/Nightlife/LasVegas/LasVegasImage.jpg" class="card-img-top img-size" alt="...">
+          <div class="card-body">
+            <h5 class="card-title"><strong><em>Las Vegas</em></strong></h5>
+            <p class="card-text">Calling all party people! Come experience elegant and spuratic party life with this package deal!</p>
+          </div>
+          </a>
+        </div>
+      </div>
+    </div>
+</div>
